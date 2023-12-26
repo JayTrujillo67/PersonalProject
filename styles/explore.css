@@ -31,12 +31,12 @@
     text-decoration: none;
     transition: ease-in, 0.5s;
     color: black;
+    
 }
 
 .nav-pages:hover {
-    color: blue;
-    border: 2px solid black;
-    background: teal;
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 5px;
 }
 
 h1 {
